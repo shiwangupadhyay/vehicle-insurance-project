@@ -146,4 +146,8 @@
 ushiwang1244a
 1RMQedYqd0cUgMuW
 
-mongodb+srv://ushiwang1244a:<db_password>@cluster0.gh0pt.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+mongodb+srv://ushiwang1244a:1RMQedYqd0cUgMuW@cluster0.gh0pt.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+peNkMsKPWF7UD7XA
+
+mongodb+srv://shiwang:peNkMsKPWF7UD7XA@cluster0.bnjb1.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
