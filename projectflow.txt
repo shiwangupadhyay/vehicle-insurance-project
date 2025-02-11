@@ -80,10 +80,10 @@
       * Add code to src.configuration.aws_connection.py file (To work with AWS S3 service)
       * Ensure below info in constants.__init__.py file:
             MODEL_EVALUATION_CHANGED_THRESHOLD_SCORE: float = 0.02
-            MODEL_BUCKET_NAME = "my-model-mlopsproj"
+            MODEL_BUCKET_NAME = "my-model-mlopsproj100"
             MODEL_PUSHER_S3_KEY = "model-registry"
       * Go to S3 service >> Create bucket >> Region: us-east-1 >> General purpose >>
-        Bucket Name: "my-model-mlopsproj" >> uncheck: "Block all public access" and acknowledge >>
+        Bucket Name: "my-model-mlopsproj100" >> uncheck: "Block all public access" and acknowledge >>
         Hit Create Bucket
       * Now inside "src.aws_storage" code needs to be added for the configurations needed to pull 
         and push model from AWS S3 bucket. 
@@ -142,14 +142,3 @@
 33. Now paste the public ip address on the address bar +:5080 and your app will be launched.
 34. You can also do model training on /training route
 
-
-ushiwang1244a
-1RMQedYqd0cUgMuW
-
-mongodb+srv://ushiwang1244a:1RMQedYqd0cUgMuW@cluster0.gh0pt.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-
-peNkMsKPWF7UD7XA
-
-mongodb+srv://shiwang:peNkMsKPWF7UD7XA@cluster0.bnjb1.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-
-"mongodb+srv://shiwang:peNkMsKPWF7UD7XA"
