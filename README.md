@@ -151,9 +151,8 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ---
 ## 📞 Contact
-📧 Email: your.email@example.com  
-🔗 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile/)  
-🖥️ GitHub: [Your GitHub](https://github.com/yourprofile/)  
+📧 Email: shiwangupadhyay8@gmail.com.com  
+🖥️ GitHub: [Your GitHub]((https://github.com/shiwangupadhyay/))  
 
 ---
 ## 📜 License
